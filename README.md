@@ -29,7 +29,7 @@
 
 ### 🔬 About Me — End-to-End AI to Production & R&D
 
-I am an **End-to-End AI Engineer**, **R&D Specialist**, and **Academic Lecturer**. My core focus lies at the intersection of **experimental AI research** (Reinforcement Learning, Time-Series Modeling, XAI) and **high-performance production engineering** (Next.js 16, Fastify, Neon PostgreSQL, Flutter).
+I am an **End-to-End AI Engineer** - **R&D**. My core focus lies at the intersection of **experimental AI research** (Reinforcement Learning, Time-Series Modeling, XAI) and **high-performance production engineering** (Next.js 16, Fastify, Neon PostgreSQL, Flutter).
 
 * 🧠 **AI Research & Modeling**: Designing Q-POMDP Reinforcement Learning policy engines, Multi-Head Attention neural networks for financial forecasting (IEEE ICAMIMIA Scopus), and Explainable AI (SHAP TreeExplainer).
 * ⚡ **Production Systems Architecture**: Translating complex models into scalable microservices & fullstack platforms achieving sub-100ms latency, zero-slop UI, and 100% Lighthouse performance benchmarks.
